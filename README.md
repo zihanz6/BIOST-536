@@ -1,1 +1,2 @@
-# BIOST-536
+### Project Overview
+This project aims to investigate the association between BCG vaccination and leprosy using the data from an unmatched case-control study of patients in East Africa. Patients' sex, age group, housing condition, years of scholling and newly diagnosed leprosy (yes/no) is recorded. The study included 274 patients with leprosy (cases) and 1096 patients without leprosy (controls) from a cross-sectional survey of the population. 
